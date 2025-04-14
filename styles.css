@@ -1,0 +1,48 @@
+
+
+
+
+#header{
+    background-color: brown;
+    margin-bottom: 50px;
+    padding: 20px;
+    width: 50%;
+
+}
+
+#navigation{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+
+}
+
+
+#navigation>a{
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: antiquewhite;
+    
+}
+
+.myImage>img{
+    width: 52%;
+}
+
+.services{
+    padding: 20px;
+    margin-top: 20px;
+    width: 50%;
+    border-radius: 10px;
+    border: 3px solid brown;
+}
+
+.services>p{
+    font-style: italic;
+    
+}
+
+.services>h1{
+    color: brown;
+}
